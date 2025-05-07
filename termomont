@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Termomont Seničić d.o.o.</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f4f4f4; color: #333; }
+    header { background: #00796b; color: white; padding: 1rem; text-align: center; }
+    nav { background: #004d40; padding: 0.5rem; text-align: center; }
+    nav a { color: white; margin: 0 1rem; text-decoration: none; font-weight: bold; }
+    section { padding: 2rem; }
+    .logo { max-height: 80px; }
+    footer { background: #00796b; color: white; text-align: center; padding: 1rem; }
+    .cta { display: block; text-align: center; margin: 2rem 0; }
+    .cta a { background: #009688; color: white; padding: 1rem 2rem; text-decoration: none; font-size: 1.2rem; border-radius: 8px; }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="vaillant-logo.png" alt="Vaillant logo" class="logo">
+    <h1>Termomont Seničić d.o.o.</h1>
+    <p>Ovlašteni Vaillant servis – Voda, grijanje, plin, klimatizacija</p>
+  </header>
+
+  <nav>
+    <a href="#usluge">Usluge</a>
+    <a href="#o-nama">O nama</a>
+    <a href="#kontakt">Kontakt</a>
+  </nav>
+
+  <section id="o-nama">
+    <h2>O nama</h2>
+    <p>Tvrtka Termomont Seničić d.o.o. osnovana je 1997. godine s ciljem pružanja vrhunskih usluga na području instalacija i servisa sustava centralnog grijanja, klimatizacije te vodovodnih instalacija i odvodnje. Svaki klijent i svaka potreba su jedinstveni. Stoga vas savjetujemo i pronalazimo za vas najbolja rješenja. Naš tim uvijek djeluje s poštovanjem prema svojim klijentima uz što veću transparentnost. Od 2006. godine smo ovlašteni serviseri za Vaillant uređaje.</p>
+  </section>
+
+  <section id="usluge">
+    <h2>Naše usluge</h2>
+    <ul>
+      <li>Servis i montaža Vaillant uređaja</li>
+      <li>Plinske instalacije</li>
+      <li>Centralno grijanje</li>
+      <li>Vodovodne instalacije i odvodnja</li>
+      <li>Klimatizacija</li>
+    </ul>
+  </section>
+
+  <section class="cta">
+    <a href="tel:+38598704149">Nazovite nas odmah</a>
+  </section>
+
+  <section id="kontakt">
+    <h2>Kontakt</h2>
+    <p><strong>Adresa:</strong> Ulica Svete Doroteje 140</p>
+    <p><strong>Telefon:</strong> +385 98 704 149</p>
+    <p><strong>Email:</strong> <a href="mailto:senicicdoo@gmail.com">senicicdoo@gmail.com</a></p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Termomont Seničić d.o.o. Sva prava pridržana.</p>
+  </footer>
+</body>
+</html>
